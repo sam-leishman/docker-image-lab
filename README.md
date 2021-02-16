@@ -4,7 +4,7 @@
 
 2. Run the image: ```docker run -d --name mycontainer -p 8080:8080 myapp:latest```
 
-3. Test: ```Go to http://localhost:8080 in your browser```
+3. Test: Go to http://localhost:8080 in your browser
 
 # Docker Compose Stack
 
